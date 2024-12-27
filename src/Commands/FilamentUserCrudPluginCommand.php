@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace PatangeDivya\FilamentUserCrudPlugin\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentUserCrudPluginCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-user-crud-plugin';
 
     public $description = 'My command';
 

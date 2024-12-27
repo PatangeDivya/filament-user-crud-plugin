@@ -1,15 +1,15 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace PatangeDivya\FilamentUserCrudPlugin;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 
-class SkeletonPlugin implements Plugin
+class FilamentUserCrudPluginPlugin implements Plugin
 {
     public function getId(): string
     {
-        return 'skeleton';
+        return 'filament-user-crud-plugin';
     }
 
     public function register(Panel $panel): void
