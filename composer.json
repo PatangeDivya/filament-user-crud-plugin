@@ -21,7 +21,7 @@
     ],
     "repositories": [
         {
-            "type": "path",
+            "type": "vcs",
             "url": "https://github.com/PatangeDivya/filament-user-crud-plugin"
         }
     ],
